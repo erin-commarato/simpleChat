@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "getUsers-executor",
+    "name": "getUsers",
+    "region": "us-east-1"
+  }
+}

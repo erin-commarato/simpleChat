@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "postMessage-executor",
+    "name": "postMessage",
+    "region": "us-east-1"
+  }
+}

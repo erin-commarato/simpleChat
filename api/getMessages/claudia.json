@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "getMessages-executor",
+    "name": "getMessages",
+    "region": "us-east-1"
+  }
+}
